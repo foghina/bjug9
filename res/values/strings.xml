@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BJUG9</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Bad</string>
+    <string name="title_section2">Good</string>
+    <string name="title_section3">Awesome</string>
+    <string name="title_section4">Two-tone</string>
+
+</resources>

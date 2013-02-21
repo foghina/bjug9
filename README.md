@@ -11,7 +11,7 @@ The purpose of this app is to demonstrate in a simple way how you can use featur
 
 ##  Building
 
-If you're feeling adventurous, playing with the code is pretty straightforward. Install the [Android SDK][2] (if you haven't done so already) and it should be a simple matter of File > New > Project... > Android Project from Existing Code.
+If you're feeling adventurous, playing with the code is pretty straightforward. Install the [Android SDK][2] (if you haven't done so already) and it should be a simple matter of `File > Import > General > Existing Projects into Workspace`.
 
 [0]: http://www.rvl.io/foghina/bjug9-building-good-android-apps/fullscreen
 [1]: http://www.bjug.ro/editii/9.html
